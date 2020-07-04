@@ -17,3 +17,5 @@ highlight Identifier guifg=#00af87 guibg=NONE gui=NONE ctermfg=36 cterm=bold
 highlight Error guibg=#800000 guifg=NONE gui=NONE ctermbg=1 ctermfg=15 cterm=bold
 highlight Todo guibg=#d7ff00 guifg=#080808 gui=NONE ctermbg=190 ctermfg=232 cterm=bold
 highlight Underlined guifg=#d7ffd7 guibg=NONE gui=italic,underline ctermfg=194 cterm=italic,underline
+highlight LineNr guifg=#87ff87 guibg=NONE gui=italic ctermfg=120 ctermbg=NONE cterm=italic
+highlight Folded guifg=#d7afff guibg=NONE gui=italic ctermfg=183 ctermbg=NONE cterm=italic
